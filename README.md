@@ -9,6 +9,9 @@
 🧩 Love crafting gameplay systems, experimenting with mechanics, and designing 3D worlds in **Blender**.  
 🚀 Always learning, always creating, always leveling up.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
+</p>
 ---
 
 ### ⚙️ Tech Arsenal  
