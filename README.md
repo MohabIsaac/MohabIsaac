@@ -13,6 +13,8 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN4bW4zdmpiY3g3YWQxZ2gycGJhaXh6NHQwMWt3NDAxZjZjM2Z2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM54RCOlf6wgLAfJum/giphy.gif" width="300" alt="Game Dev Animation">
 </p>
 
+---
+
 ### ⚙️ Tech Arsenal  
 💻 **Engines:** Unreal Engine | Unity  
 🧠 **Languages:** C++ | C#  
