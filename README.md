@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm **Mohab Isaac**  
 
-🎮 **Game Developer | Creative Coder | 3D Enthusiast**
+🎮 **Game Developer | Trainee at Information Technology Institute (ITI) Game Programming track**
 
 ---
 
@@ -23,8 +23,8 @@
 
 ### 🕹️ What I’m Up To  
 - 🎨 Developing small prototypes and learning advanced Unreal systems  
-- 🧩 Exploring procedural generation & physics-based gameplay  
-- 🌌 Experimenting with cinematic lighting and VFX  
+- 🧩 Exploring Network Replication and seamless multiplayer techniques  
+- 🌌 Experimenting with the latest in-engine features  
 
 ---
 
@@ -36,7 +36,6 @@
 
 ---
 
-### 🔥 Animated Quote  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=CCreating+Worlds+One+Frame+at+a+Time...;Building+Games+That+Feel+Alive!;Code.+Create.+Play.+Repeat.">
 </p>
@@ -44,10 +43,6 @@
 ---
 
 ### 🌐 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/)  
-🎨 [ArtStation](https://www.artstation.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mohab-atef-27284b218/)  
+🎨 [ArtStation](https://www.artstation.com/ozul5)  
 🕹️ [itch.io](https://itch.io/)  
-
----
-
-> 🧩 *“The best way to predict the future is to create it — one game at a time.”*
