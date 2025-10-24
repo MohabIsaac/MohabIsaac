@@ -10,8 +10,8 @@
 🚀 Always learning, always creating, always leveling up.
 
 <p align="center">
-   <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="600" alt="Game Dev GIF">
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d6NGl2aXdhZ2t0a2Q2NHhpZTRrOXd5dTNhejN0cGdwY21pOXhtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM54RCOlf6wgLAfJum/giphy.gif)</p>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN4bW4zdmpiY3g3YWQxZ2gycGJhaXh6NHQwMWt3NDAxZjZjM2Z2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM54RCOlf6wgLAfJum/giphy.gif" width="600" alt="Game Dev Animation">
+</p>
 ---
 
 ### ⚙️ Tech Arsenal  
