@@ -19,10 +19,10 @@
 🎨 **Tools:** Blender | Photoshop | Git | Visual Studio  
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Unreal_Engine_Logo.svg" alt="Unreal Engine Logo" width="60" style="margin-right:15px;"/>
-  <img src="https://www.citypng.com/public/uploads/preview/unity-game-engine-logo-icon-png-701751694709269rfgrsxrghr.png" alt="Unity Logo" width="60" style="margin-right:15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg" alt="Unreal Engine Logo" width="60" style="margin-right:15px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity Logo" width="60" style="margin-right:15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="60" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Csharp_Logo.png" alt="C# Logo" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="C# Logo" width="60"/>
 </p>
 ---
 
