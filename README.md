@@ -21,11 +21,11 @@
 🎨 **Tools:** Blender | Photoshop | Git | Visual Studio  
 
 <p align="center">
-  <img src="https://www.citypng.com/public/uploads/preview/unreal-engine-white-logo-png-7017516947713345x5letwbsz.png" alt="Unreal Engine Logo" width="60" style="margin-right:15px;"/>
-  <img src="https://www.citypng.com/public/uploads/preview/unity-round-logo-icon-png-701751694968144ebvvjhn8zq.png" alt="Unity Logo" width="60" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="60" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="C# Logo" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="Blender Logo" width="60" style="margin-top:0px;"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?logo=unreal-engine&logoColor=white" width="200" />
+  <img src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" width="100"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" width="50"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" width="125"/>
 </p>
 
 ---
@@ -44,6 +44,14 @@
 ---
 
 ### 🌐 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/mohab-atef-27284b218/)  
-🎨 [ArtStation](https://www.artstation.com/ozul5)  
-🕹️ [itch.io](https://itch.io/)  
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="100" />
+  </a>
+  <a href="https://artstation.com/yourusername">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white" width="142" />
+  </a>
+  <a href="https://yourusername.itch.io">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?logo=itch.io&logoColor=white" width="100" />
+  </a>
+</p>
