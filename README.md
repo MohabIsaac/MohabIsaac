@@ -20,7 +20,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Unreal_Engine_Logo_%28new_typeface%29.svg" alt="Unreal Engine Logo" width="60" style="margin-right:15px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Unity_2021.svg" alt="Unity Logo" width="60" style="margin-right:15px;"/>
+  <img src="https://www.citypng.com/public/uploads/preview/hd-unity-white-logo-png-701751694709266px4owrpn8p.png" alt="Unity Logo" width="60" style="margin-right:15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" width="60" style="margin-right:15px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/C_Sharp_Icon.png" alt="C# Logo" width="60"/>
 </p>
