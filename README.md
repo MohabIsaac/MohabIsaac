@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWN4bW4zdmpiY3g3YWQxZ2gycGJhaXh6NHQwMWt3NDAxZjZjM2Z2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM54RCOlf6wgLAfJum/giphy.gif" width="300" alt="Game Dev Animation">
 </p>
----
 
 ### ⚙️ Tech Arsenal  
 💻 **Engines:** Unreal Engine | Unity  
@@ -25,14 +24,6 @@
 - 🎨 Developing small prototypes and learning advanced Unreal systems  
 - 🧩 Exploring Network Replication and seamless multiplayer techniques  
 - 🌌 Experimenting with the latest in-engine features  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohabIsaac&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohabIsaac&layout=compact&theme=radical" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
