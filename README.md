@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Mohab Isaac**  
 
-<!--
-**MohabIsaac/MohabIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Game Developer | Creative Coder | 3D Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me  
+💥 Passionate about building immersive **game experiences** using **Unreal Engine** and **Unity**.  
+🧩 Love crafting gameplay systems, experimenting with mechanics, and designing 3D worlds in **Blender**.  
+🚀 Always learning, always creating, always leveling up.
+
+---
+
+### ⚙️ Tech Arsenal  
+💻 **Engines:** Unreal Engine | Unity  
+🧠 **Languages:** C++ | C#  
+🎨 **Tools:** Blender | Photoshop | Git | Visual Studio  
+
+---
+
+### 🕹️ What I’m Up To  
+- 🎨 Developing small prototypes and learning advanced Unreal systems  
+- 🧩 Exploring procedural generation & physics-based gameplay  
+- 🌌 Experimenting with cinematic lighting and VFX  
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohabIsaac&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohabIsaac&layout=compact&theme=radical" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 🔥 Animated Quote  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=Creating+Worlds+One+Frame+at+a+Time...;Building+Games+That+Feel+Alive!;Code.+Create.+Play.+Repeat.">
+</p>
+
+---
+
+### 🌐 Let’s Connect  
+💼 [LinkedIn](https://www.linkedin.com/)  
+🎨 [ArtStation](https://www.artstation.com/)  
+🕹️ [itch.io](https://itch.io/)  
+
+---
+
+> 🧩 *“The best way to predict the future is to create it — one game at a time.”*
