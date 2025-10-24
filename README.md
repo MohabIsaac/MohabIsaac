@@ -10,7 +10,7 @@
 🚀 Always learning, always creating, always leveling up.
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2d6NGl2aXdhZ2t0a2Q2NHhpZTRrOXd5dTNhejN0cGdwY21pOXhtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FM54RCOlf6wgLAfJum/giphy.gif)" width="500" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="500" />
 </p>
 ---
 
