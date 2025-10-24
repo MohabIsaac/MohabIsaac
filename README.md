@@ -38,7 +38,7 @@
 
 ### 🔥 Animated Quote  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=Creating+Worlds+One+Frame+at+a+Time...;Building+Games+That+Feel+Alive!;Code.+Create.+Play.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=CCreating+Worlds+One+Frame+at+a+Time...;Building+Games+That+Feel+Alive!;Code.+Create.+Play.+Repeat.">
 </p>
 
 ---
