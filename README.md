@@ -45,10 +45,10 @@
 
 ### 🌐 Let’s Connect  
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/mohab-atef-27284b218/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" width="100" />
   </a>
-  <a href="https://artstation.com/yourusername">
+  <a href="https://www.artstation.com/ozul5">
     <img src="https://img.shields.io/badge/ArtStation-13AFF0?logo=artstation&logoColor=white" width="142" />
   </a>
   <a href="https://yourusername.itch.io">
