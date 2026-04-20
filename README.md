@@ -6,7 +6,7 @@
 
 ### 🧠 About Me  
 💥 Passionate about building immersive **game experiences** using **Unreal Engine** and **Unity**.  
-🧩 Love crafting gameplay systems, experimenting with mechanics, and designing 3D worlds in **Blender**.  
+🧩 Love crafting gameplay systems, experimenting with mechanics, and designing fun levels in engines.  
 🚀 Always learning, always creating, always leveling up.
 
 <p align="center">
@@ -31,14 +31,14 @@
 ---
 
 ### 🕹️ What I’m Up To  
-- 🎨 Developing small prototypes and learning advanced Unreal systems  
+- 🎨 Developing small prototypes and creating advanced systems  
 - 🧩 Exploring Network Replication and seamless multiplayer techniques  
 - 🌌 Experimenting with the latest in-engine features  
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=CCreating+Worlds+One+Frame+at+a+Time...;Building+Games+That+Feel+Alive!;Code.+Create.+Play.+Repeat.">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F75C7E&center=true&vCenter=true&lines=CCCreating+Worlds+One+Frame+at+a+Time...;Building+Games+That+Feel+Alive!;Code.+Create.+Play.+Repeat.">
 </p>
 
 ---
